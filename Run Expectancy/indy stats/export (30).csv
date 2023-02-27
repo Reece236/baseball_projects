@@ -1,0 +1,17 @@
+playerId,abbrevName,playerFullName,player,pos,newestTeamName,newestTeamAbbrevName,newestTeamId,newestTeamLocation,newestTeamLevel,batsHand,throwsHand,Bats,wOBA,PA,AVG,2B,3B,HR,SLG,OBP,K%,BB%,K,BB,Swing%,Miss%,Chase%
+1141691904,M. Mcdermott,Matt Mcdermott,Mcdermott,2B,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.343,237,.277,10,4,7,.466,.335,18.1%,8.0%,43,19,52.9%,21.9%,29.9%
+1118782464,A. White,Austin White,White,CF,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,L,L,L,.344,285,.289,10,1,1,.356,.402,12.3%,13.7%,35,39,31.3%,11.4%,11.5%
+1222373120,N. Lucky,Nick Lucky,Lucky,RF,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,L,R,L,.388,262,.301,9,0,8,.461,.420,17.2%,14.5%,45,38,36.8%,14.8%,14.6%
+1225348096,E. Brown,Eric Brown,Brown,SS,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.441,257,.337,19,2,7,.558,.467,10.9%,15.2%,28,39,34.2%,9.4%,12.5%
+1225348608,C. Weiss,Cooper Weiss,Weiss,SS,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.313,97,.219,2,1,1,.315,.362,30.9%,12.4%,30,12,41.1%,32.9%,18.2%
+1225351680,D. Thomas,Dale Thomas,Thomas,3B,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.397,251,.285,15,2,13,.556,.374,19.1%,11.6%,48,29,38.9%,22.1%,17.6%
+1225356800,Z. Beach,Zack Beach,Beach,1B,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,L,R,L,.340,95,.240,3,0,2,.360,.383,32.6%,14.7%,31,14,32.8%,30.8%,12.3%
+1091374080,J. Gitter,Jake Gitter,Gitter,LF,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,L,R,L,.217,25,.095,1,0,1,.286,.200,32.0%,8.0%,8,2,38.7%,30.6%,7.5%
+1225354240,T. Garrison,Tanner Garrison,Garrison,C,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.354,95,.260,2,0,3,.403,.380,20.0%,8.4%,19,8,46.3%,23.5%,27.6%
+1286070528,K. Guangorena,Kameron Guangorena,Guangorena,C,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,L,R,L,.351,127,.284,7,0,2,.412,.382,17.3%,11.8%,22,15,44.6%,23.6%,24.7%
+1329145344,"C. Rowan, Jr.","Christopher Rowan, Jr.","Rowan, Jr.",1B,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.408,154,.280,9,0,8,.544,.401,23.4%,11.7%,36,18,38.1%,25.3%,16.5%
+1287677952,T. Johnson,Tyler Johnson,Johnson,1B,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,L,L,L,.512,203,.364,11,0,19,.776,.468,22.7%,13.8%,46,28,47.9%,28.0%,23.5%
+1084704512,B. Underwood,Billy Underwood,Underwood,RF,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,L,R,.316,55,.209,4,0,0,.302,.370,16.4%,18.2%,9,10,30.4%,13.9%,12.4%
+1312690176,G. Brown,Graham Brown,Brown,RF,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.385,197,.297,14,0,7,.519,.387,14.2%,10.7%,28,21,47.4%,21.5%,24.9%
+1297499136,D. Bender,Derek Bender,Bender,C,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.286,36,.200,0,0,1,.300,.314,22.2%,8.3%,8,3,45.6%,26.3%,26.5%
+1312690688,O. Pena,Orlando Pena,Pena,3B,Coastal Carolina University,CCAR,4104,Coastal Carolina,BBC,R,R,R,.336,12,.300,0,0,0,.300,.417,25.0%,16.7%,3,2,34.9%,26.7%,11.1%

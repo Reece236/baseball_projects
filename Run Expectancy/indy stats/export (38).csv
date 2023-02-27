@@ -1,0 +1,21 @@
+playerId,abbrevName,playerFullName,player,pos,newestTeamName,newestTeamAbbrevName,newestTeamId,newestTeamLocation,newestTeamLevel,batsHand,throwsHand,Bats,wOBA,PA,AVG,2B,3B,HR,SLG,OBP,K%,BB%,K,BB,Swing%,Miss%,Chase%
+1083224832,J. Melton,Jacob Melton,Melton,CF,Oregon State University,ORST,3111,Oregon State,BBC,L,L,L,.452,287,.357,22,4,16,.663,.412,17.4%,7.3%,50,21,49.0%,26.0%,33.7%
+1150379776,M. McDowell,Micah McDowell,McDowell,CF,Oregon State University,ORST,3111,Oregon State,BBC,L,R,L,.219,40,.152,1,0,0,.182,.263,22.5%,5.0%,9,2,42.0%,16.2%,30.1%
+1214097664,J. Dukart,Jake Dukart,Dukart,2B,Oregon State University,ORST,3111,Oregon State,BBC,L,R,L,.339,138,.259,4,4,2,.414,.360,23.2%,10.1%,32,14,47.0%,26.3%,28.9%
+1270531584,M. Gretler,Matthew Gretler,Gretler,DH,Oregon State University,ORST,3111,Oregon State,BBC,R,R,R,.290,135,.189,6,0,4,.351,.295,21.5%,9.6%,29,13,46.8%,27.4%,29.4%
+1182420992,G. Fuchs,Greg Fuchs,Fuchs,LF,Oregon State University,ORST,3111,Oregon State,BBC,L,R,L,.313,169,.231,6,1,0,.291,.375,24.3%,17.2%,41,29,34.6%,24.5%,21.5%
+1214098176,W. Meckler,Wade Meckler,Meckler,LF,Oregon State University,ORST,3111,Oregon State,BBC,S,R,S,.408,322,.345,23,3,2,.477,.452,14.9%,15.8%,48,51,38.4%,16.6%,21.8%
+1086817024,K. Dernedde,Kyle Dernedde,Dernedde,2B,Oregon State University,ORST,3111,Oregon State,BBC,R,R,R,.268,235,.204,6,1,1,.260,.310,22.6%,8.9%,53,21,38.3%,22.9%,23.0%
+1125590016,J. Boyd,Justin Boyd,Boyd,LF,Oregon State University,ORST,3111,Oregon State,BBC,R,R,R,.461,298,.378,14,4,8,.575,.497,19.1%,17.4%,57,52,39.0%,22.6%,23.3%
+1258263296,G. Forrester,Garret Forrester,Forrester,3B,Oregon State University,ORST,3111,Oregon State,BBC,R,R,R,.426,299,.330,11,0,9,.500,.475,15.7%,20.1%,47,60,35.6%,15.8%,20.6%
+1258262784,B. Kasper,Brady Kasper,Kasper,RF,Oregon State University,ORST,3111,Oregon State,BBC,L,R,L,.286,38,.212,2,0,1,.364,.289,36.8%,10.5%,14,4,42.2%,40.3%,31.5%
+1329523968,G. Logan,Gavin Logan,Logan,1B,Oregon State University,ORST,3111,Oregon State,BBC,L,R,L,.362,189,.292,12,2,3,.447,.378,10.1%,11.1%,19,21,41.4%,12.0%,25.2%
+1211163648,J. Thorsteinson,Justin Thorsteinson,Thorsteinson,DH,Oregon State University,ORST,3111,Oregon State,BBC,L,L,L,.884,1,1.000,0,0,0,1.000,1.000,0.0%,0.0%,0,0,50.0%,0.0%,40.0%
+1248709120,T. Bazzana,Travis Bazzana,Bazzana,2B,Oregon State University,ORST,3111,Oregon State,BBC,L,R,L,.402,295,.313,16,4,6,.487,.430,20.0%,15.3%,59,45,42.2%,18.6%,27.2%
+1267600896,T. Wheeler,Tj Wheeler,Wheeler,DH,Oregon State University,ORST,3111,Oregon State,BBC,L,R,L,.356,59,.250,1,0,1,.341,.424,20.3%,18.6%,12,11,27.6%,25.0%,15.9%
+1155637760,J. Trosky,Jabin Trosky,Trosky,2B,Oregon State University,ORST,3111,Oregon State,BBC,S,R,S,.319,70,.288,1,0,0,.305,.386,18.6%,12.9%,13,9,39.5%,10.8%,23.6%
+1236374272,P. Myro iv,Paul Myro iv,Myro iv,SS,Oregon State University,ORST,3111,Oregon State,BBC,R,R,R,.295,13,.200,0,0,0,.200,.385,53.8%,23.1%,7,3,28.1%,50.0%,29.2%
+1297338112,T. Smith,Tanner Smith,Smith,C,Oregon State University,ORST,3111,Oregon State,BBC,R,R,R,.325,113,.232,8,0,3,.411,.327,28.3%,11.5%,32,13,43.3%,32.4%,28.1%
+1155635200,M. Guerra,Mason Guerra,Guerra,3B,Oregon State University,ORST,3111,Oregon State,BBC,R,R,R,.384,50,.318,7,0,0,.477,.400,42.0%,8.0%,21,4,40.5%,31.0%,33.6%
+1181521408,T. Dukart,Thomas Dukart,Dukart,CF,Oregon State University,ORST,3111,Oregon State,BBC,L,R,L,.000,4,.000,0,0,0,.000,.000,100.0%,0.0%,4,0,41.2%,85.7%,35.7%
+1155635456,W. Weber,Wilson Weber,Weber,C,Oregon State University,ORST,3111,Oregon State,BBC,R,R,R,.000,2,.000,0,0,0,.000,.000,50.0%,0.0%,1,0,42.9%,66.7%,50.0%
