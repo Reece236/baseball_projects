@@ -1,0 +1,17 @@
+playerId,abbrevName,playerFullName,player,pos,newestTeamName,newestTeamAbbrevName,newestTeamId,newestTeamLocation,newestTeamLevel,batsHand,throwsHand,Bats,wOBA,PA,AVG,2B,3B,HR,SLG,OBP,K%,BB%,K,BB,Swing%,Miss%,Chase%
+1130408448,D. Brooks,Daniel Brooks,Brooks,DH,George Mason University,GMU,730265088,George Mason,BBC,S,R,S,.321,133,.270,5,0,2,.365,.351,18.0%,9.0%,24,12,50.5%,21.6%,30.7%
+1301888000,S. Morgan,Scott Morgan,Morgan,DH,George Mason University,GMU,730265088,George Mason,BBC,S,R,S,.314,108,.231,1,0,3,.341,.346,23.1%,13.9%,25,15,42.9%,28.5%,18.4%
+1337461248,"C. Miles, Jr.","Craig Miles, Jr.","Miles, Jr.",LF,George Mason University,GMU,730265088,George Mason,BBC,L,L,S,.202,18,.083,0,0,0,.083,.278,16.7%,22.2%,3,4,36.8%,28.6%,10.8%
+1295625728,D. Hosley,Danny Hosley,Hosley,3B,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.336,215,.267,13,2,4,.419,.344,5.6%,7.4%,12,16,46.4%,8.7%,20.3%
+1311528960,K. Smith,Kam Smith,Smith,LF,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.340,221,.279,13,1,5,.431,.344,11.8%,6.3%,26,14,57.2%,16.7%,29.5%
+1085143552,J. Smith,Jordan Smith,Smith,CF,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.380,125,.321,6,1,3,.473,.392,18.4%,6.4%,23,8,59.4%,22.9%,37.2%
+1337460992,S. Trimble,South Trimble,Trimble,1B,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.382,187,.327,8,2,1,.423,.430,10.2%,9.1%,19,17,44.5%,17.5%,21.2%
+1211935488,B. Stallings,Brett Stallings,Stallings,2B,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.298,241,.285,11,0,1,.350,.325,12.4%,5.4%,30,13,53.7%,19.8%,29.9%
+1196782848,A. Knapp,Alex Knapp,Knapp,RF,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.300,126,.188,4,1,2,.313,.333,29.4%,13.5%,37,17,40.8%,31.0%,19.0%
+1263426816,C. Pracht,Carsen Pracht,Pracht,SS,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.348,222,.253,10,1,3,.374,.390,20.3%,14.0%,45,31,37.6%,22.1%,15.2%
+1314855936,C. Dykstra,Connor Dykstra,Dykstra,C,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.395,197,.278,6,1,6,.450,.434,18.3%,11.2%,36,22,43.8%,24.0%,19.1%
+1162518272,Y. Hartigan,Yogie Hartigan,Hartigan,RF,George Mason University,GMU,730265088,George Mason,BBC,S,R,S,.306,51,.289,0,0,0,.289,.373,35.3%,11.8%,18,6,45.9%,36.5%,22.6%
+1242472704,J. Baird,Jackson Baird,Baird,P,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.000,1,.000,0,0,0,.000,.000,0.0%,0.0%,0,0,66.7%,0.0%,0.0%
+1263483392,T. Cotten,Tyler Cotten,Cotten,C,George Mason University,GMU,730265088,George Mason,BBC,R,R,S,.186,82,.171,4,0,0,.224,.198,22.0%,2.4%,18,2,59.1%,29.1%,30.9%
+1263483648,B. Ahalt,Brett Ahalt,Ahalt,LF,George Mason University,GMU,730265088,George Mason,BBC,L,R,L,.373,178,.318,12,1,2,.450,.404,21.9%,10.1%,39,18,45.6%,28.0%,22.6%
+1162606592,N. Morgan,Nick Morgan,Morgan,P,George Mason University,GMU,730265088,George Mason,BBC,R,R,R,.154,17,.143,0,0,0,.143,.188,11.8%,5.9%,2,1,50.9%,17.2%,32.1%
